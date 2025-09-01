@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Elisângela Aragão.
 - 👀 I’m interested in discovering more and more the world of programming 
-- 🌱 I’m currently learning studying the Java language and improving my codes involving HTML and CSS
+- 🌱 I’m currently learning studying the Java language and improving my codes involving HTML, CSS and JavaScript
+- 
 - 📫 You can contact me via email: elisangelaaragao644@gmail.com
